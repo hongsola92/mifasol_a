@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main(void)
+{
+	int kor, eng, mat;
+	scanf("%d", &kor);
+	scanf("%d", &eng);
+	scanf("%d", &mat);	
+		
+	int sum = kor + eng + mat;
+	double average = sum / 3.0;
+	
+	printf("sum: %d\taverage: %.2f\n", sum, average);
+	return 0;
+}
