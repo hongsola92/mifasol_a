@@ -264,8 +264,12 @@ i++ 에서 뒤에 붙으면 증가 하기전의값*
     ---
     ## 024-03-07
     ---
-- 부속질의의
+- 부속질의
     - 중첩질의_WHERE 부속질의
+        - 단일 행,열 [비교] (=, >, <, >=, <=, <>,) 
+        - 다중 행,열 [집합] (IN, NOT IN)
+        - 다중 행,열 [존재] (EXISTS, NOT EXISTS)
+        - 다중 행, 단일열 [한정] (ALL, SOME)
     - 스칼라 부속질의_SELECT 부속질의
     - 인라인 뷰_FROM 부속질의
 - view
@@ -282,3 +286,17 @@ i++ 에서 뒤에 붙으면 증가 하기전의값*
     - index 생성
     - index 재구성과 삭제
 - delete foreign key 실행.
+- DB Programming 개념
+    - SQL 전용 언어 사용하는 방법.
+    - 일반 프로그래밍 언어에 SQL 삽입하여 사용
+    - 웹 프로그래밍 언어에 SQL 삽입하여 사용
+    - 4GL
+- stored program (procedure로 구현하여 객체 형태로 사용)
+    - 저장 루틴, 트리거,이벤트로 구성
+        - *저장루틴은 프로시저, 함수로 나뉘어짐*
+    - trigger
+        - before,after
+    - function (사용자 정의 함수)
+- procedure 실행
+
+
