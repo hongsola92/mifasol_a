@@ -1,0 +1,3 @@
+/home/hongsola/doremi/mifasol_a/python_C_mysql/build/CMakeFiles/booklist.dir
+/home/hongsola/doremi/mifasol_a/python_C_mysql/build/CMakeFiles/edit_cache.dir
+/home/hongsola/doremi/mifasol_a/python_C_mysql/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -rdynamic CMakeFiles/booklist.dir/booklist.c.o -o booklist  -lmysqlclient 
