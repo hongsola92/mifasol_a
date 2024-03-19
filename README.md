@@ -344,3 +344,25 @@ i++ 에서 뒤에 붙으면 증가 하기전의값*
     - 고립성(Isolation)
     - 지속성(Durability)
 - 동시성 제어
+
+---
+## 024-03-15
+---
+- make_String 
+    - main.c 파일 생성
+    - myString.c , myString.h, Makefile 생성성
+
+---
+## 024-03-19
+---
+
+- c_game_project start
+    - git repository 생성
+    - gitignore 생성
+    - doxygen setting
+        - sudo apt install doxygen graphviz
+        - sudo apt install doxygen-gui
+        - sudo apt install qt5
+        - unset GTK_PATH
+- cmake 배포
+    - install 명령어 사용, cpack setting
