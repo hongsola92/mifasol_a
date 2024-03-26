@@ -366,3 +366,25 @@ i++ 에서 뒤에 붙으면 증가 하기전의값*
         - unset GTK_PATH
 - cmake 배포
     - install 명령어 사용, cpack setting
+
+---
+## 024-03-26
+---
+
+- C++
+    - linking (object file 생성되어도 바로 실행될 수 없음.)
+    - #include <iostream>
+        - 전처리기에 대한 지시문
+    - 화면출력
+        - cout 객체
+        - << 연산자
+        - 여러 개의 << 연산자로 한 문장에 여러 data 출력
+        - cout과 << 연산자 활용
+    - namespace & std
+        - std:: 생략과 using지시어
+    - 키 입력 받기.
+        - cin과 >> 연산자를 이용한 키 입력.
+        - Enter 키 칠 때 변수에 키 값 전달.
+        - 실행문 중간에 변수 선언.
+    - 키보드 문자열 입력.
+        - C-스트링 : 널 문자('\0' 혹은 0)로 끝나는 char 배열

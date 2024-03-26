@@ -74,5 +74,5 @@
         "typeinfo": "cpp"
     },
     //cmake source folder
-    "cmake.sourceDirectory": "/home/hongsola/doremi/mifasol_a/python_C_mysql",
+    "cmake.sourceDirectory": "/home/hongsola/mifasol_a/python_C_mysql",
 }
