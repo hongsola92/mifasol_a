@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/hongsola/doremi/mifasol_a/build",
-  "command": "/usr/bin/gcc  -I/usr/include/mysql -g -o CMakeFiles/booklist.dir/booklist.c.o -c /home/hongsola/doremi/mifasol_a/python_C_mysql/booklist.c",
-  "file": "/home/hongsola/doremi/mifasol_a/python_C_mysql/booklist.c"
-}
-]

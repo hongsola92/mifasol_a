@@ -1,3 +1,0 @@
-/home/hongsola/doremi/mifasol_a/build/CMakeFiles/booklist.dir
-/home/hongsola/doremi/mifasol_a/build/CMakeFiles/edit_cache.dir
-/home/hongsola/doremi/mifasol_a/build/CMakeFiles/rebuild_cache.dir
