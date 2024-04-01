@@ -388,3 +388,8 @@ i++ 에서 뒤에 붙으면 증가 하기전의값*
         - 실행문 중간에 변수 선언.
     - 키보드 문자열 입력.
         - C-스트링 : 널 문자('\0' 혹은 0)로 끝나는 char 배열
+
+---
+## 024-04-01
+---
+- https://github.com/hongsola92/mifasol_a/blob/main/c%2B%2B/chap3/ex3_1.cpp
