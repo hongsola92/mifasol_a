@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/hongsola/mifasol_a'
+make: Leaving directory '/home/hongsola/mifasol_a'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
