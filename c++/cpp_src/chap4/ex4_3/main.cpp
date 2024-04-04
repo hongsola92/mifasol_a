@@ -4,6 +4,8 @@ using namespace std;
 //클래스 선언
 class Circle{
     int radius;
+    int test;
+
 public:
     Circle() { radius = 1;}               // 생성자 함수
     Circle(int r) {radius =r;}          // 매개변수가 있는 생성자 함수
@@ -15,20 +17,14 @@ double Circle::getArea() {
 }
 
 int main(void)
-{   
-    Circle dount;
-    Circle pizza(30);
+{
+    Circle CircleArray[8] = { Circle(10), Circle(20), Circle()};
+    int CircleArraySize = sizeof(CircleArray) / sizeof(CircleArray);
 
-    cout << dount.getArea() << endl;
-
-    Circle *p;
-    p = &dount;
-    cout << p->getArea() << endl;
-    cout << (*p).getArea() << endl;
-
-    p = &pizza;
-    cout << p->getArea() << endl;
-    cout << (*p).getArea() << endl;
+    cout << "CircleArraySize is  "<<  CircleArraySize << endl;
+   
+    for(int i = 0; i < CircleArraySize;  i++)
+        cout << "Circle" <<i <<"의 면적은" << CircleArray[i].getArea() << endl;
 
     return 0;
 }

@@ -1,4 +1,3 @@
-// 클래스 구현
 #include <iostream>
 using namespace std;
 #include "Exp.h"
@@ -7,17 +6,15 @@ using namespace std;
 // 멤버함수
 int Exp::getValue()
 {
-    // int result = 1;
-    // for(int i=0; i <ex; i++){
-    //     result = result * base;
-    // }
-    // return true;
-    int result;
-    result = pow(base, ex);
+    int result = 1;
+    for(int i=0; i <exp; i++){
+        result = result * this -> base;
+    }
     return result;
 }
-int Exp::getBase() { return base; }
-int Exp::getExp() { return ex; }
+
+int Exp::getBase() { return this -> base; }
+int Exp::getExp() { return this -> exp; }
 bool Exp::equals(Exp other)
 {
     return (getBase() == other.getBase());
@@ -27,15 +24,15 @@ bool Exp::equals(Exp other)
 Exp::Exp()
 {
     base = 1;
-    ex = 1;
+    exp = 1;
 }
-Exp::Exp(int b)
+Exp::Exp(int base)
 {
-    base = b;
-    ex = 1;
+    this -> base = base;
+    exp = 1;
 }
-Exp::Exp(int b, int e)
+Exp::Exp(int base, int exp)
 {
-    base = b;
-    ex = e;
+    this -> base = base;
+    this -> exp = exp;
 }

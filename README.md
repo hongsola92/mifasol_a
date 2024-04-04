@@ -367,11 +367,10 @@ i++ 에서 뒤에 붙으면 증가 하기전의값*
 - cmake 배포
     - install 명령어 사용, cpack setting
 
+### C++
 ---
 ## 024-03-26
 ---
-
-- C++
     - linking (object file 생성되어도 바로 실행될 수 없음.)
     - #include <iostream>
         - 전처리기에 대한 지시문
@@ -403,3 +402,7 @@ i++ 에서 뒤에 붙으면 증가 하기전의값*
 ## 024-04-04
 ---
 - 객체 배열 선언 및 활용
+- 배열의 동적 할당 및 반환
+    -https://github.com/hongsola92/mifasol_a/blob/main/c%2B%2B/cpp_src/chap4/ex4_2/main.cpp
+- 문자열 다루기
+    - 치환, 비교, 연결, 삽입, 길이, 삭제, 스트링, 검색...

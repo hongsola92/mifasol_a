@@ -32,13 +32,15 @@ int main(void)
     CircleArray[1].setRadius(20);
     CircleArray[2].setRadius(30);
 
+    
     for (int i = 0; i < 3; i++)
         cout << "Circle" << i << "의 면적은" << CircleArray[i].getArea() << endl;
 
     Circle *p;
     p = CircleArray;
     for(int i = 0; i < 3; i++){
-        cout <<"Circle" <<i << "의 면적은" << p->getArea() <<endl;
+        cout <<"Circle" <<i << "의 면적은" << /*p->getArea()*/
+        (p+i)->getArea() <<endl;
         p++;
     }       // p++는 배열의 다음 원소를 가리킨다.
     return 0;

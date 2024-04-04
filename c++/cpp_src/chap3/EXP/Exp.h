@@ -1,4 +1,4 @@
-//클래스 선언
+
 #ifndef EXP_H
 #define EXP_H
 
@@ -6,7 +6,7 @@ class Exp {
 public:
     // 멤버변수
     int base;
-    int ex;
+    int exp;
     
     // 멤버함수
     int getValue();
@@ -16,8 +16,8 @@ public:
 
     //생성자, 소멸자
     Exp();
-    Exp(int b);
-    Exp(int b, int e);
+    Exp(int base);
+    Exp(int base, int exp);
 };
 
 #endif // EXP_H
