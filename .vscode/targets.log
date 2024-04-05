@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Apr  4 09:02:33 2024
+# Make data base, printed on Fri Apr  5 09:07:09 2024
 
 # Variables
 
@@ -57,7 +57,7 @@ VSCODE_CODE_CACHE_PATH = /home/hongsola/.config/Code/CachedData/863d2581ecda6849
 # environment
 LANG = C
 # environment
-XAUTHORITY = /run/user/1000/.mutter-Xwaylandauth.0UM6K2
+XAUTHORITY = /run/user/1000/.mutter-Xwaylandauth.U8NNL2
 # default
 .LOADED := 
 # default
@@ -67,7 +67,7 @@ MAKEFLAGS = pqrR
 # makefile
 CURDIR := /home/hongsola/mifasol_a
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 LESSOPEN = | /usr/bin/lesspipe %s
 # automatic
@@ -91,13 +91,13 @@ MAKEFILE_LIST :=
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_PID = 3699
+VSCODE_PID = 3584
 # environment
 XDG_SESSION_TYPE = wayland
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # environment
-SESSION_MANAGER = local/ubunt22:@/tmp/.ICE-unix/2998,unix/ubunt22:/tmp/.ICE-unix/2998
+SESSION_MANAGER = local/ubunt22:@/tmp/.ICE-unix/3007,unix/ubunt22:/tmp/.ICE-unix/3007
 # automatic
 *F = $(notdir $*)
 # environment
@@ -141,7 +141,7 @@ LC_MONETARY = ko_KR.UTF-8
 # environment
 LC_TIME = ko_KR.UTF-8
 # environment
-INVOCATION_ID = d40dacad6dae48259f9ac183bbb82b83
+INVOCATION_ID = a8bab698a61b406687587db5f9730099
 # environment
 USERNAME = hongsola
 # environment
@@ -169,7 +169,7 @@ GIO_LAUNCHED_DESKTOP_FILE = /usr/share/applications/code.desktop
 # makefile
 .DEFAULT_GOAL := 
 # environment
-SYSTEMD_EXEC_PID = 3018
+SYSTEMD_EXEC_PID = 3025
 # environment
 DISPLAY = :0
 # environment
@@ -179,11 +179,11 @@ GTK_MODULES = gail:atk-bridge
 # default
 MAKE_VERSION := 4.3
 # environment
-MANAGERPID = 2848
+MANAGERPID = 2863
 # environment
 LC_MEASUREMENT = ko_KR.UTF-8
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 3699
+GIO_LAUNCHED_DESKTOP_FILE_PID = 3584
 # environment
 _ = /usr/share/code/code
 # environment
@@ -191,7 +191,7 @@ LC_PAPER = ko_KR.UTF-8
 # environment
 XDG_RUNTIME_DIR = /run/user/1000
 # environment
-JOURNAL_STREAM = 8:26616
+JOURNAL_STREAM = 8:25174
 # environment
 XDG_SESSION_CLASS = user
 # environment
@@ -282,14 +282,14 @@ GNUmakefile:
 # No 'vpath' search paths.
 
 # No general ('VPATH' variable) search path.
- 
 
 # strcache buffers: 1 (0) / strings = 20 / storage = 166 B / avg = 8 B
 # current buf: size = 8162 B / used = 166 B / count = 20 / avg = 8 B
 
+ 
 # strcache performance: lookups = 23 / hit rate = 13%
 # hash-table stats:
 # Load=20/8192=0%, Rehash=0, Collisions=0/23=0%
-# Finished Make data base on Thu Apr  4 09:02:34 2024
+# Finished Make data base on Fri Apr  5 09:07:09 2024
 
  
