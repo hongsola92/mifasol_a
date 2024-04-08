@@ -6,7 +6,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Mon Apr  8 16:50:06 2024
+# Make data base, printed on Mon Apr  8 21:36:59 2024
 
 # Variables
 
@@ -89,7 +89,7 @@ MAKEFILE_LIST :=
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_PID = 27108
+VSCODE_PID = 36756
 # environment
 XDG_SESSION_TYPE = wayland
 # automatic
@@ -181,7 +181,7 @@ MANAGERPID = 2873
 # environment
 LC_MEASUREMENT = ko_KR.UTF-8
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 27108
+GIO_LAUNCHED_DESKTOP_FILE_PID = 36756
 # environment
 _ = /usr/share/code/code
 # environment
@@ -290,6 +290,6 @@ make: *** No rule to make target 'all'.  Stop.
 # strcache performance: lookups = 23 / hit rate = 13%
 # hash-table stats:
 # Load=20/8192=0%, Rehash=0, Collisions=0/23=0%
-# Finished Make data base on Mon Apr  8 16:50:06 2024
+# Finished Make data base on Mon Apr  8 21:36:59 2024
 
  
