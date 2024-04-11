@@ -21,47 +21,52 @@ public:
 SortedArray::SortedArray()
 {
     this-> size = 1;
-    p = new int[size];
-}
-
-SortedArray::SortedArray(SortedArray& src)
-{
-    this->size = src.size;
-    p = new int[size];
-    for (int i = 0; i < size; ++i)
-    {
-        p[i] = src.p[i];
-    }
-}
-SortedArray::SortedArray(int p[], int size) :  size(size), p(new int[size]){
-    for (int i = 0; i < size; ++i) {
-        this->p[i] = p[i];
-    }
-    sort();
+    this-> p = new int[size];
 }
 
 SortedArray::~SortedArray()
 {
-    delete[] p;
+    delete[] this->p;
 }
 
-SortedArray SortedArray::operator+(const SortedArray &op2)const
+SortedArray::SortedArray(SortedArray& src)
 {
-    SortedArray result;
-    result.size = size + op2.size;
-    result.p = new int[result.size];
+    this->size = size;
+    this->p = new int[size];
+    for (int i = 0; i < size; ++i)
+    {
+        this->p[i] = p [i];
+    }
+}
+SortedArray::SortedArray(int p[], int size)
+{
+    this->size = size;
+    this->p = new int[size];
+    for (int i = 0; i < size; ++i)
+    {
+        this->p[i] = p [i];
+    }
+}
+
+
+
+SortedArray SortedArray::operator+(SortedArray &op2)
+{
+    SortedArray tmp;
+    tmp.size = size + op2.size;
+    tmp.p = new int[tmp.size];
 
     int i = 0, j = 0, k = 0;
     while (i < size && j < op2.size) {
         if (p[i] < op2.p[j])
-            result.p[k++] = p[i++];
+            tmp.p[k++] = p[i++];
         else
-            result.p[k++] = op2.p[j++];
+            tmp.p[k++] = op2.p[j++];
     }
     while (i < size)
-        result.p[k++] = p[i++];
+        tmp.p[k++] = p[i++];
     while (j < op2.size)
-        result.p[k++] = op2.p[j++];
+        tmp.p[k++] = op2.p[j++];
 
     return result;
 
