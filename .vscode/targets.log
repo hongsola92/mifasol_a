@@ -6,7 +6,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Fri Apr 12 09:09:01 2024
+# Make data base, printed on Mon Apr 15 17:24:03 2024
 
 # Variables
 
@@ -55,7 +55,7 @@ VSCODE_CODE_CACHE_PATH = /home/hongsola/.config/Code/CachedData/863d2581ecda6849
 # environment
 LANG = C
 # environment
-XAUTHORITY = /run/user/1000/.mutter-Xwaylandauth.B1MDM2
+XAUTHORITY = /run/user/1000/.mutter-Xwaylandauth.88YSL2
 # default
 .LOADED := 
 # default
@@ -68,6 +68,8 @@ CURDIR := /home/hongsola/mifasol_a
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 LESSOPEN = | /usr/bin/lesspipe %s
+# environment
+VSCODE_L10N_BUNDLE_LOCATION = file:///home/hongsola/.vscode/extensions/ms-ceintl.vscode-language-pack-ko-1.87.2024031309/translations/extensions/vscode.markdown-language-features.i18n.json
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
@@ -89,13 +91,13 @@ MAKEFILE_LIST :=
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_PID = 3732
+VSCODE_PID = 3561
 # environment
 XDG_SESSION_TYPE = wayland
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # environment
-SESSION_MANAGER = local/ubunt22:@/tmp/.ICE-unix/2968,unix/ubunt22:/tmp/.ICE-unix/2968
+SESSION_MANAGER = local/ubunt22:@/tmp/.ICE-unix/2979,unix/ubunt22:/tmp/.ICE-unix/2979
 # automatic
 *F = $(notdir $*)
 # environment
@@ -139,7 +141,7 @@ LC_MONETARY = ko_KR.UTF-8
 # environment
 LC_TIME = ko_KR.UTF-8
 # environment
-INVOCATION_ID = cdd104e7bf5c49c7bf57a06000905c96
+INVOCATION_ID = aaee4249c4fa4115b3d72d64c972dd25
 # environment
 USERNAME = hongsola
 # environment
@@ -167,7 +169,7 @@ GIO_LAUNCHED_DESKTOP_FILE = /usr/share/applications/code.desktop
 # makefile
 .DEFAULT_GOAL := 
 # environment
-SYSTEMD_EXEC_PID = 2986
+SYSTEMD_EXEC_PID = 3000
 # environment
 DISPLAY = :0
 # environment
@@ -177,11 +179,11 @@ GTK_MODULES = gail:atk-bridge
 # default
 MAKE_VERSION := 4.3
 # environment
-MANAGERPID = 2821
+MANAGERPID = 2833
 # environment
 LC_MEASUREMENT = ko_KR.UTF-8
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 3732
+GIO_LAUNCHED_DESKTOP_FILE_PID = 3561
 # environment
 _ = /usr/share/code/code
 # environment
@@ -189,7 +191,7 @@ LC_PAPER = ko_KR.UTF-8
 # environment
 XDG_RUNTIME_DIR = /run/user/1000
 # environment
-JOURNAL_STREAM = 8:27225
+JOURNAL_STREAM = 8:24494
 # environment
 XDG_SESSION_CLASS = user
 # environment
@@ -221,7 +223,7 @@ GDMSESSION = ubuntu
 # environment
 LC_IDENTIFICATION = ko_KR.UTF-8
 # variable set hash-table stats:
-# Load=105/1024=10%, Rehash=0, Collisions=4/132=3%
+# Load=106/1024=10%, Rehash=0, Collisions=5/133=4%
 
 # Pattern-specific Variable Values
 
@@ -281,15 +283,15 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
+ 
+make: *** No rule to make target 'all'.  Stop.
+
 # strcache buffers: 1 (0) / strings = 20 / storage = 166 B / avg = 8 B
 # current buf: size = 8162 B / used = 166 B / count = 20 / avg = 8 B
 
 # strcache performance: lookups = 23 / hit rate = 13%
- 
-make: *** No rule to make target 'all'.  Stop.
-
 # hash-table stats:
 # Load=20/8192=0%, Rehash=0, Collisions=0/23=0%
-# Finished Make data base on Fri Apr 12 09:09:01 2024
+# Finished Make data base on Mon Apr 15 17:24:04 2024
 
  
