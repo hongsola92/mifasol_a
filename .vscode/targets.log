@@ -6,7 +6,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Mon Apr 15 17:24:03 2024
+# Make data base, printed on Wed Apr 17 14:17:38 2024
 
 # Variables
 
@@ -55,7 +55,7 @@ VSCODE_CODE_CACHE_PATH = /home/hongsola/.config/Code/CachedData/863d2581ecda6849
 # environment
 LANG = C
 # environment
-XAUTHORITY = /run/user/1000/.mutter-Xwaylandauth.88YSL2
+XAUTHORITY = /run/user/1000/.mutter-Xwaylandauth.F9Y7L2
 # default
 .LOADED := 
 # default
@@ -91,13 +91,13 @@ MAKEFILE_LIST :=
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_PID = 3561
+VSCODE_PID = 3549
 # environment
 XDG_SESSION_TYPE = wayland
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # environment
-SESSION_MANAGER = local/ubunt22:@/tmp/.ICE-unix/2979,unix/ubunt22:/tmp/.ICE-unix/2979
+SESSION_MANAGER = local/ubunt22:@/tmp/.ICE-unix/2974,unix/ubunt22:/tmp/.ICE-unix/2974
 # automatic
 *F = $(notdir $*)
 # environment
@@ -141,7 +141,7 @@ LC_MONETARY = ko_KR.UTF-8
 # environment
 LC_TIME = ko_KR.UTF-8
 # environment
-INVOCATION_ID = aaee4249c4fa4115b3d72d64c972dd25
+INVOCATION_ID = 162aae0d07c94f70a63c2bf0f771133e
 # environment
 USERNAME = hongsola
 # environment
@@ -169,7 +169,7 @@ GIO_LAUNCHED_DESKTOP_FILE = /usr/share/applications/code.desktop
 # makefile
 .DEFAULT_GOAL := 
 # environment
-SYSTEMD_EXEC_PID = 3000
+SYSTEMD_EXEC_PID = 2996
 # environment
 DISPLAY = :0
 # environment
@@ -179,11 +179,11 @@ GTK_MODULES = gail:atk-bridge
 # default
 MAKE_VERSION := 4.3
 # environment
-MANAGERPID = 2833
+MANAGERPID = 2827
 # environment
 LC_MEASUREMENT = ko_KR.UTF-8
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 3561
+GIO_LAUNCHED_DESKTOP_FILE_PID = 3549
 # environment
 _ = /usr/share/code/code
 # environment
@@ -191,7 +191,7 @@ LC_PAPER = ko_KR.UTF-8
 # environment
 XDG_RUNTIME_DIR = /run/user/1000
 # environment
-JOURNAL_STREAM = 8:24494
+JOURNAL_STREAM = 8:25246
 # environment
 XDG_SESSION_CLASS = user
 # environment
@@ -280,11 +280,11 @@ GNUmakefile:
 # VPATH Search Paths
 
 # No 'vpath' search paths.
-
-# No general ('VPATH' variable) search path.
-
  
 make: *** No rule to make target 'all'.  Stop.
+
+
+# No general ('VPATH' variable) search path.
 
 # strcache buffers: 1 (0) / strings = 20 / storage = 166 B / avg = 8 B
 # current buf: size = 8162 B / used = 166 B / count = 20 / avg = 8 B
@@ -292,6 +292,6 @@ make: *** No rule to make target 'all'.  Stop.
 # strcache performance: lookups = 23 / hit rate = 13%
 # hash-table stats:
 # Load=20/8192=0%, Rehash=0, Collisions=0/23=0%
-# Finished Make data base on Mon Apr 15 17:24:04 2024
+# Finished Make data base on Wed Apr 17 14:17:38 2024
 
  
