@@ -47,7 +47,9 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "cinttypes": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "inet.h": "c",
+        "socket.h": "c"
     },
     "cmake.sourceDirectory": "/home/hongsola/mifasol_a/python_C_mysql"
 }
