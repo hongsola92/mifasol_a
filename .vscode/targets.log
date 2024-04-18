@@ -6,7 +6,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Apr 18 09:18:45 2024
+# Make data base, printed on Thu Apr 18 17:31:54 2024
 
 # Variables
 
@@ -91,7 +91,7 @@ MAKEFILE_LIST :=
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_PID = 3690
+VSCODE_PID = 21108
 # environment
 XDG_SESSION_TYPE = wayland
 # automatic
@@ -183,7 +183,7 @@ MANAGERPID = 2851
 # environment
 LC_MEASUREMENT = ko_KR.UTF-8
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 3690
+GIO_LAUNCHED_DESKTOP_FILE_PID = 21108
 # environment
 _ = /usr/share/code/code
 # environment
@@ -221,9 +221,6 @@ XDG_MENU_PREFIX = gnome-
 # environment
 GDMSESSION = ubuntu
 # environment
- 
-make: *** No rule to make target 'all'.  Stop.
-
 LC_IDENTIFICATION = ko_KR.UTF-8
 # variable set hash-table stats:
 # Load=106/1024=10%, Rehash=0, Collisions=5/133=4%
@@ -234,9 +231,9 @@ LC_IDENTIFICATION = ko_KR.UTF-8
 
 # Directories
 
-# . (device 2051, inode 665856): 13 files, no impossibilities.
+# . (device 2051, inode 665856): 14 files, no impossibilities.
 
-# 13 files, no impossibilities in 1 directories.
+# 14 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -286,12 +283,15 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 21 / storage = 172 B / avg = 8 B
-# current buf: size = 8162 B / used = 172 B / count = 21 / avg = 8 B
+ 
+make: *** No rule to make target 'all'.  Stop.
 
-# strcache performance: lookups = 24 / hit rate = 12%
+# strcache buffers: 1 (0) / strings = 22 / storage = 183 B / avg = 8 B
+# current buf: size = 8162 B / used = 183 B / count = 22 / avg = 8 B
+
+# strcache performance: lookups = 25 / hit rate = 12%
 # hash-table stats:
-# Load=21/8192=0%, Rehash=0, Collisions=0/24=0%
-# Finished Make data base on Thu Apr 18 09:18:45 2024
+# Load=22/8192=0%, Rehash=0, Collisions=0/25=0%
+# Finished Make data base on Thu Apr 18 17:31:54 2024
 
  
