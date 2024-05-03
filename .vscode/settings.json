@@ -49,7 +49,20 @@
         "cinttypes": "cpp",
         "typeinfo": "cpp",
         "inet.h": "c",
-        "socket.h": "c"
+        "socket.h": "c",
+        "chrono": "cpp",
+        "complex": "cpp",
+        "condition_variable": "cpp",
+        "ctime": "cpp",
+        "list": "cpp",
+        "set": "cpp",
+        "ratio": "cpp",
+        "fstream": "cpp",
+        "iomanip": "cpp",
+        "mutex": "cpp",
+        "semaphore": "cpp",
+        "stop_token": "cpp",
+        "thread": "cpp"
     },
     "cmake.sourceDirectory": "/home/hongsola/mifasol_a/python_C_mysql"
 }

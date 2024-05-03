@@ -1,0 +1,10 @@
+/home/ssorra/mifasol_a/openCV/chap03/build/CMakeFiles/VecOp.dir
+/home/ssorra/mifasol_a/openCV/chap03/build/CMakeFiles/basicOp.dir
+/home/ssorra/mifasol_a/openCV/chap03/build/CMakeFiles/matOp.dir
+/home/ssorra/mifasol_a/openCV/chap03/build/CMakeFiles/matOp2.dir
+/home/ssorra/mifasol_a/openCV/chap03/build/CMakeFiles/matOp3.dir
+/home/ssorra/mifasol_a/openCV/chap03/build/CMakeFiles/matOp4.dir
+/home/ssorra/mifasol_a/openCV/chap03/build/CMakeFiles/matOp5.dir
+/home/ssorra/mifasol_a/openCV/chap03/build/CMakeFiles/rectOp.dir
+/home/ssorra/mifasol_a/openCV/chap03/build/CMakeFiles/edit_cache.dir
+/home/ssorra/mifasol_a/openCV/chap03/build/CMakeFiles/rebuild_cache.dir

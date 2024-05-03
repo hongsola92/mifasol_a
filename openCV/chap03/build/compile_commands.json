@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/ssorra/mifasol_a/openCV/chap03/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/VecOp.dir/VecOp.cpp.o -c /home/ssorra/mifasol_a/openCV/chap03/VecOp.cpp",
+  "file": "/home/ssorra/mifasol_a/openCV/chap03/VecOp.cpp"
+},
+{
+  "directory": "/home/ssorra/mifasol_a/openCV/chap03/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/basicOp.dir/basicOp.cpp.o -c /home/ssorra/mifasol_a/openCV/chap03/basicOp.cpp",
+  "file": "/home/ssorra/mifasol_a/openCV/chap03/basicOp.cpp"
+},
+{
+  "directory": "/home/ssorra/mifasol_a/openCV/chap03/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/matOp.dir/matOp.cpp.o -c /home/ssorra/mifasol_a/openCV/chap03/matOp.cpp",
+  "file": "/home/ssorra/mifasol_a/openCV/chap03/matOp.cpp"
+},
+{
+  "directory": "/home/ssorra/mifasol_a/openCV/chap03/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/matOp2.dir/matOp2.cpp.o -c /home/ssorra/mifasol_a/openCV/chap03/matOp2.cpp",
+  "file": "/home/ssorra/mifasol_a/openCV/chap03/matOp2.cpp"
+},
+{
+  "directory": "/home/ssorra/mifasol_a/openCV/chap03/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/matOp3.dir/matOp3.cpp.o -c /home/ssorra/mifasol_a/openCV/chap03/matOp3.cpp",
+  "file": "/home/ssorra/mifasol_a/openCV/chap03/matOp3.cpp"
+},
+{
+  "directory": "/home/ssorra/mifasol_a/openCV/chap03/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/matOp4.dir/matOp4.cpp.o -c /home/ssorra/mifasol_a/openCV/chap03/matOp4.cpp",
+  "file": "/home/ssorra/mifasol_a/openCV/chap03/matOp4.cpp"
+},
+{
+  "directory": "/home/ssorra/mifasol_a/openCV/chap03/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/matOp5.dir/matOp5.cpp.o -c /home/ssorra/mifasol_a/openCV/chap03/matOp5.cpp",
+  "file": "/home/ssorra/mifasol_a/openCV/chap03/matOp5.cpp"
+},
+{
+  "directory": "/home/ssorra/mifasol_a/openCV/chap03/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/rectOp.dir/rectOp.cpp.o -c /home/ssorra/mifasol_a/openCV/chap03/rectOp.cpp",
+  "file": "/home/ssorra/mifasol_a/openCV/chap03/rectOp.cpp"
+}
+]

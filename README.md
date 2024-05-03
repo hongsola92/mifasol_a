@@ -537,3 +537,32 @@ ___
     - 도메인 이름을 이용하여 IP주소 얻어오기.
         - #include <netdb.h>
         struct hostnet * gethostbyname(const char * hstname); 함수를 이용하여 문자열 형태의 도메인 이름으로부터 IP주소정보 얻을 수 있음.
+
+---
+## 024-05-03
+---
+**openCV**
+- OpenCV 설치
+    - sudo apt install libopencv-dev python3-opencv
+    - cmake 설정
+        - glov file 적용
+    - 영상처리 와 인식 개념
+        - 영상 파일 형식
+            - BMP, JPG, GIF, PNG
+    - OpenCV 프로그램 주요 함수
+        - imread()
+        - namedWindow()
+        - imshow()
+        - waitKey() : 키보드 아스키코드 char값(리턴)
+    - 기본 자료형 클래스
+        - Point_class가
+        - Size_class
+        - Rect_class
+        - RotatedRect_class
+        - String_class
+        - Mat_class
+            - OpenCV 에서 가장 기본적이고 중요한 데이터 구조, 이미지나 행렬을 표현하는데 사용.
+    - 영상 입출력 (imread, imshow, imwrite)
+    - 동영상 입출력 (VideoCapture, VideoWriter)
+    - OpenCV 활용하여 직선 그려보기.
+
