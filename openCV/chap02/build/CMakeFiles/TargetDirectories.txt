@@ -1,0 +1,3 @@
+/home/ssorra/mifasol_a/openCV/chap02/build/CMakeFiles/helloworld.dir
+/home/ssorra/mifasol_a/openCV/chap02/build/CMakeFiles/edit_cache.dir
+/home/ssorra/mifasol_a/openCV/chap02/build/CMakeFiles/rebuild_cache.dir
