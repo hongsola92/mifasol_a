@@ -564,5 +564,6 @@ ___
             - OpenCV 에서 가장 기본적이고 중요한 데이터 구조, 이미지나 행렬을 표현하는데 사용.
     - 영상 입출력 (imread, imshow, imwrite)
     - 동영상 입출력 (VideoCapture, VideoWriter)
+        `https://github.com/hongsola92/mifasol_a/blob/ed10bcee562f0a5d1222fffabb5df63de2d4c7bc/openCV/chap04/video.cpp`
     - OpenCV 활용하여 직선 그려보기.
-
+        `https://github.com/hongsola92/mifasol_a/blob/ed10bcee562f0a5d1222fffabb5df63de2d4c7bc/openCV/chap04/line.cpp`
