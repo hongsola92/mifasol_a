@@ -1,4 +1,17 @@
+/home/ssorra/mifasol_a/openCV/chap04/build/CMakeFiles/drowPolys.dir
+/home/ssorra/mifasol_a/openCV/chap04/build/CMakeFiles/drowText.dir
+/home/ssorra/mifasol_a/openCV/chap04/build/CMakeFiles/freeTypefont.dir
+/home/ssorra/mifasol_a/openCV/chap04/build/CMakeFiles/keyboard.dir
+/home/ssorra/mifasol_a/openCV/chap04/build/CMakeFiles/keyboard2.dir
 /home/ssorra/mifasol_a/openCV/chap04/build/CMakeFiles/line.dir
+/home/ssorra/mifasol_a/openCV/chap04/build/CMakeFiles/lineTest.dir
+/home/ssorra/mifasol_a/openCV/chap04/build/CMakeFiles/maskSetTo.dir
+/home/ssorra/mifasol_a/openCV/chap04/build/CMakeFiles/mouse.dir
+/home/ssorra/mifasol_a/openCV/chap04/build/CMakeFiles/mouseRGBPoint.dir
+/home/ssorra/mifasol_a/openCV/chap04/build/CMakeFiles/storage.dir
+/home/ssorra/mifasol_a/openCV/chap04/build/CMakeFiles/storageRead.dir
+/home/ssorra/mifasol_a/openCV/chap04/build/CMakeFiles/trackbar.dir
+/home/ssorra/mifasol_a/openCV/chap04/build/CMakeFiles/usefulFunc.dir
 /home/ssorra/mifasol_a/openCV/chap04/build/CMakeFiles/video.dir
 /home/ssorra/mifasol_a/openCV/chap04/build/CMakeFiles/edit_cache.dir
 /home/ssorra/mifasol_a/openCV/chap04/build/CMakeFiles/rebuild_cache.dir

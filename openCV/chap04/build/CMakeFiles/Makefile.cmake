@@ -49,6 +49,19 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/drowPolys.dir/DependInfo.cmake"
+  "CMakeFiles/drowText.dir/DependInfo.cmake"
+  "CMakeFiles/freeTypefont.dir/DependInfo.cmake"
+  "CMakeFiles/keyboard.dir/DependInfo.cmake"
+  "CMakeFiles/keyboard2.dir/DependInfo.cmake"
   "CMakeFiles/line.dir/DependInfo.cmake"
+  "CMakeFiles/lineTest.dir/DependInfo.cmake"
+  "CMakeFiles/maskSetTo.dir/DependInfo.cmake"
+  "CMakeFiles/mouse.dir/DependInfo.cmake"
+  "CMakeFiles/mouseRGBPoint.dir/DependInfo.cmake"
+  "CMakeFiles/storage.dir/DependInfo.cmake"
+  "CMakeFiles/storageRead.dir/DependInfo.cmake"
+  "CMakeFiles/trackbar.dir/DependInfo.cmake"
+  "CMakeFiles/usefulFunc.dir/DependInfo.cmake"
   "CMakeFiles/video.dir/DependInfo.cmake"
   )

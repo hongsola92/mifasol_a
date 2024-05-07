@@ -567,3 +567,34 @@ ___
         `https://github.com/hongsola92/mifasol_a/blob/ed10bcee562f0a5d1222fffabb5df63de2d4c7bc/openCV/chap04/video.cpp`
     - OpenCV 활용하여 직선 그려보기.
         `https://github.com/hongsola92/mifasol_a/blob/ed10bcee562f0a5d1222fffabb5df63de2d4c7bc/openCV/chap04/line.cpp`
+---
+## 024-05-07
+---
+- 영상처리 저수준 -> 밝기 대비
+- 영상인식 고수준 -> 해석 -> 의미있는 정보
+
+- 기초클래스
+    - _Point = x , y / 다양한 연산도 가능.
+    - _Size = width, height
+    - _Rect = x,y,width, height
+    - _Mat = <T> 2차원 배열 [y][x]
+- Inputarray / Outputarray
+    - '&' 참조가 들어감. 다양한 img 객체를 받을 수 있음.
+- include <string > -> std 가들어가있으나 안써도 opencv 'cv' 안에 String이 들어가 있음.
+
+- 기본기능
+    - cap = VideoCapture
+- text
+    - putText
+- mouse
+    - mouse callback 함수 사용
+- keyboard
+    - 키보드 입력 받기
+- trackbar
+    - 
+- FileStorage
+    - 
+- 마스크 연산
+    - 
+- 영상의 밝기와 명암비 조절
+    - //
