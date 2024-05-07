@@ -403,7 +403,7 @@ i++ 에서 뒤에 붙으면 증가 하기전의값*
 ---
 - 객체 배열 선언 및 활용
 - 배열의 동적 할당 및 반환
-    -https://github.com/hongsola92/mifasol_a/blob/main/c%2B%2B/cpp_src/chap4/ex4_2/main.cpp
+    - https://github.com/hongsola92/mifasol_a/blob/main/c%2B%2B/cpp_src/chap4/ex4_2/main.cpp
 - 문자열 다루기
     - 치환, 비교, 연결, 삽입, 길이, 삭제, 스트링, 검색...
 
@@ -564,9 +564,9 @@ ___
             - OpenCV 에서 가장 기본적이고 중요한 데이터 구조, 이미지나 행렬을 표현하는데 사용.
     - 영상 입출력 (imread, imshow, imwrite)
     - 동영상 입출력 (VideoCapture, VideoWriter)
-        `https://github.com/hongsola92/mifasol_a/blob/ed10bcee562f0a5d1222fffabb5df63de2d4c7bc/openCV/chap04/video.cpp`
+        - https://github.com/hongsola92/mifasol_a/blob/ed10bcee562f0a5d1222fffabb5df63de2d4c7bc/openCV/chap04/video.cpp
     - OpenCV 활용하여 직선 그려보기.
-        `https://github.com/hongsola92/mifasol_a/blob/ed10bcee562f0a5d1222fffabb5df63de2d4c7bc/openCV/chap04/line.cpp`
+        - https://github.com/hongsola92/mifasol_a/blob/ed10bcee562f0a5d1222fffabb5df63de2d4c7bc/openCV/chap04/line.cpp
 ---
 ## 024-05-07
 ---
@@ -586,18 +586,18 @@ ___
     - cap = VideoCapture
 - text
     - putText
-        - `https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap04/freeTypefont.cpp`
+        - https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap04/freeTypefont.cpp
 - mouse
     - mouse callback 함수 사용
-        - `https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap04/mouse.cpp`
+        - https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap04/mouse.cpp
 - keyboard
     - 키보드 입력 받기
-        - `https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap04/keyboard2.cpp`
+        - https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap04/keyboard2.cpp
 - trackbar
-    - `https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap04/trackbar.cpp`
+    - https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap04/trackbar.cpp
 - FileStorage
-    - `https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap04/storageRead.cpp`
+    - https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap04/storageRead.cpp
 - 마스크 연산
-    - `https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap04/maskSetTo.cpp`
+    - https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap04/maskSetTo.cpp
 - 영상 밝기 조절
-    - `https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap05/brightness.cpp`
+    - https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap05/brightness.cpp
