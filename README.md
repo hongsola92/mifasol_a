@@ -586,15 +586,18 @@ ___
     - cap = VideoCapture
 - text
     - putText
+        - `https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap04/freeTypefont.cpp`
 - mouse
     - mouse callback 함수 사용
+        - `https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap04/mouse.cpp`
 - keyboard
     - 키보드 입력 받기
+        - `https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap04/keyboard2.cpp`
 - trackbar
-    - 
+    - `https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap04/trackbar.cpp`
 - FileStorage
-    - 
+    - `https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap04/storageRead.cpp`
 - 마스크 연산
-    - 
-- 영상의 밝기와 명암비 조절
-    - //
+    - `https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap04/maskSetTo.cpp`
+- 영상 밝기 조절
+    - `https://github.com/hongsola92/mifasol_a/blob/1ee2b826ccea8608c353b2344323bf2926503676/openCV/chap05/brightness.cpp`
