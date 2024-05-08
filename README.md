@@ -607,18 +607,21 @@ ___
 ---
 - 영상 밝기 조절
     - 트랙바 적용
+
 - 영상 대비 조절
     - 히스토그램 스트레칭, 히스토그램 평활화
 - 영상의 산술 연산
     - add, addWighted, subtract, absdiff
 - 블러링
-    - blur, GaussianBlur, medianBlur, bilat지eralFilter
+    - blur, GaussianBlur, medianBlur, bilateralFilter
 - 샤프닝
 - 노이즈 생성
     - 가우시안 노이즈 / 소금 -후추 노이즈 미디안 필터로 없애기
+        - https://github.com/hongsola92/mifasol_a/blob/9ffadea5cc9cbb2e67a8c9c280aded1066be55f4/openCV/chap07/noise.cpp
 - 기하학적 변환 affine, perspective
     - 평행 이동, 전단 변환, 회전 변환, 크기 변환
     - warpAffine, warpPerspective
     - getRotationMatrix2D, getAffineTransform
+        - https://github.com/hongsola92/mifasol_a/tree/9ffadea5cc9cbb2e67a8c9c280aded1066be55f4/openCV/chap08
 - 엣지
     - 캐니엣지
