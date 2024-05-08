@@ -1,0 +1,9 @@
+/home/ssorra/mifasol_a/openCV/chap07/build/CMakeFiles/bilateralFilter.dir
+/home/ssorra/mifasol_a/openCV/chap07/build/CMakeFiles/blur.dir
+/home/ssorra/mifasol_a/openCV/chap07/build/CMakeFiles/filterEmbossing.dir
+/home/ssorra/mifasol_a/openCV/chap07/build/CMakeFiles/gaussianBlur.dir
+/home/ssorra/mifasol_a/openCV/chap07/build/CMakeFiles/medianfilter.dir
+/home/ssorra/mifasol_a/openCV/chap07/build/CMakeFiles/noise.dir
+/home/ssorra/mifasol_a/openCV/chap07/build/CMakeFiles/shapen.dir
+/home/ssorra/mifasol_a/openCV/chap07/build/CMakeFiles/edit_cache.dir
+/home/ssorra/mifasol_a/openCV/chap07/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/home/ssorra/mifasol_a/openCV/chap06/build/CMakeFiles/arithmetic.dir
+/home/ssorra/mifasol_a/openCV/chap06/build/CMakeFiles/logical.dir
+/home/ssorra/mifasol_a/openCV/chap06/build/CMakeFiles/edit_cache.dir
+/home/ssorra/mifasol_a/openCV/chap06/build/CMakeFiles/rebuild_cache.dir

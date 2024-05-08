@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/ssorra/mifasol_a/openCV/chap08/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/affine.dir/affine.cpp.o -c /home/ssorra/mifasol_a/openCV/chap08/affine.cpp",
+  "file": "/home/ssorra/mifasol_a/openCV/chap08/affine.cpp"
+},
+{
+  "directory": "/home/ssorra/mifasol_a/openCV/chap08/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/affineRotation.dir/affineRotation.cpp.o -c /home/ssorra/mifasol_a/openCV/chap08/affineRotation.cpp",
+  "file": "/home/ssorra/mifasol_a/openCV/chap08/affineRotation.cpp"
+},
+{
+  "directory": "/home/ssorra/mifasol_a/openCV/chap08/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/affineSheer.dir/affineSheer.cpp.o -c /home/ssorra/mifasol_a/openCV/chap08/affineSheer.cpp",
+  "file": "/home/ssorra/mifasol_a/openCV/chap08/affineSheer.cpp"
+},
+{
+  "directory": "/home/ssorra/mifasol_a/openCV/chap08/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/affineTranslation.dir/affineTranslation.cpp.o -c /home/ssorra/mifasol_a/openCV/chap08/affineTranslation.cpp",
+  "file": "/home/ssorra/mifasol_a/openCV/chap08/affineTranslation.cpp"
+}
+]

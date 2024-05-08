@@ -1,4 +1,6 @@
+/home/ssorra/mifasol_a/openCV/chap05/build/CMakeFiles/brightTrackBar.dir
 /home/ssorra/mifasol_a/openCV/chap05/build/CMakeFiles/brightness.dir
+/home/ssorra/mifasol_a/openCV/chap05/build/CMakeFiles/contrast.dir
 /home/ssorra/mifasol_a/openCV/chap05/build/CMakeFiles/saturated.dir
 /home/ssorra/mifasol_a/openCV/chap05/build/CMakeFiles/edit_cache.dir
 /home/ssorra/mifasol_a/openCV/chap05/build/CMakeFiles/rebuild_cache.dir

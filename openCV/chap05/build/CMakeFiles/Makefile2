@@ -63,7 +63,9 @@ CMAKE_BINARY_DIR = /home/ssorra/mifasol_a/openCV/chap05/build
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
+all: CMakeFiles/brightTrackBar.dir/all
 all: CMakeFiles/brightness.dir/all
+all: CMakeFiles/contrast.dir/all
 all: CMakeFiles/saturated.dir/all
 .PHONY : all
 
@@ -72,9 +74,37 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
+clean: CMakeFiles/brightTrackBar.dir/clean
 clean: CMakeFiles/brightness.dir/clean
+clean: CMakeFiles/contrast.dir/clean
 clean: CMakeFiles/saturated.dir/clean
 .PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/brightTrackBar.dir
+
+# All Build rule for target.
+CMakeFiles/brightTrackBar.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/brightTrackBar.dir/build.make CMakeFiles/brightTrackBar.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/brightTrackBar.dir/build.make CMakeFiles/brightTrackBar.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ssorra/mifasol_a/openCV/chap05/build/CMakeFiles --progress-num=1,2 "Built target brightTrackBar"
+.PHONY : CMakeFiles/brightTrackBar.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/brightTrackBar.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ssorra/mifasol_a/openCV/chap05/build/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/brightTrackBar.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ssorra/mifasol_a/openCV/chap05/build/CMakeFiles 0
+.PHONY : CMakeFiles/brightTrackBar.dir/rule
+
+# Convenience name for target.
+brightTrackBar: CMakeFiles/brightTrackBar.dir/rule
+.PHONY : brightTrackBar
+
+# clean rule for target.
+CMakeFiles/brightTrackBar.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/brightTrackBar.dir/build.make CMakeFiles/brightTrackBar.dir/clean
+.PHONY : CMakeFiles/brightTrackBar.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/brightness.dir
@@ -83,7 +113,7 @@ clean: CMakeFiles/saturated.dir/clean
 CMakeFiles/brightness.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/brightness.dir/build.make CMakeFiles/brightness.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/brightness.dir/build.make CMakeFiles/brightness.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ssorra/mifasol_a/openCV/chap05/build/CMakeFiles --progress-num=1,2 "Built target brightness"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ssorra/mifasol_a/openCV/chap05/build/CMakeFiles --progress-num=3,4 "Built target brightness"
 .PHONY : CMakeFiles/brightness.dir/all
 
 # Build rule for subdir invocation for target.
@@ -103,13 +133,39 @@ CMakeFiles/brightness.dir/clean:
 .PHONY : CMakeFiles/brightness.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/contrast.dir
+
+# All Build rule for target.
+CMakeFiles/contrast.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/contrast.dir/build.make CMakeFiles/contrast.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/contrast.dir/build.make CMakeFiles/contrast.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ssorra/mifasol_a/openCV/chap05/build/CMakeFiles --progress-num=5,6 "Built target contrast"
+.PHONY : CMakeFiles/contrast.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/contrast.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ssorra/mifasol_a/openCV/chap05/build/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/contrast.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ssorra/mifasol_a/openCV/chap05/build/CMakeFiles 0
+.PHONY : CMakeFiles/contrast.dir/rule
+
+# Convenience name for target.
+contrast: CMakeFiles/contrast.dir/rule
+.PHONY : contrast
+
+# clean rule for target.
+CMakeFiles/contrast.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/contrast.dir/build.make CMakeFiles/contrast.dir/clean
+.PHONY : CMakeFiles/contrast.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/saturated.dir
 
 # All Build rule for target.
 CMakeFiles/saturated.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/saturated.dir/build.make CMakeFiles/saturated.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/saturated.dir/build.make CMakeFiles/saturated.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ssorra/mifasol_a/openCV/chap05/build/CMakeFiles --progress-num=3,4 "Built target saturated"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ssorra/mifasol_a/openCV/chap05/build/CMakeFiles --progress-num=7,8 "Built target saturated"
 .PHONY : CMakeFiles/saturated.dir/all
 
 # Build rule for subdir invocation for target.

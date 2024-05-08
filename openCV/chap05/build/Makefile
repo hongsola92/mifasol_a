@@ -117,6 +117,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named brightTrackBar
+
+# Build rule for target.
+brightTrackBar: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 brightTrackBar
+.PHONY : brightTrackBar
+
+# fast build rule for target.
+brightTrackBar/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/brightTrackBar.dir/build.make CMakeFiles/brightTrackBar.dir/build
+.PHONY : brightTrackBar/fast
+
+#=============================================================================
 # Target rules for targets named brightness
 
 # Build rule for target.
@@ -130,6 +143,19 @@ brightness/fast:
 .PHONY : brightness/fast
 
 #=============================================================================
+# Target rules for targets named contrast
+
+# Build rule for target.
+contrast: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 contrast
+.PHONY : contrast
+
+# fast build rule for target.
+contrast/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/contrast.dir/build.make CMakeFiles/contrast.dir/build
+.PHONY : contrast/fast
+
+#=============================================================================
 # Target rules for targets named saturated
 
 # Build rule for target.
@@ -141,6 +167,30 @@ saturated: cmake_check_build_system
 saturated/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/saturated.dir/build.make CMakeFiles/saturated.dir/build
 .PHONY : saturated/fast
+
+brightTrackBar.o: brightTrackBar.cpp.o
+.PHONY : brightTrackBar.o
+
+# target to build an object file
+brightTrackBar.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/brightTrackBar.dir/build.make CMakeFiles/brightTrackBar.dir/brightTrackBar.cpp.o
+.PHONY : brightTrackBar.cpp.o
+
+brightTrackBar.i: brightTrackBar.cpp.i
+.PHONY : brightTrackBar.i
+
+# target to preprocess a source file
+brightTrackBar.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/brightTrackBar.dir/build.make CMakeFiles/brightTrackBar.dir/brightTrackBar.cpp.i
+.PHONY : brightTrackBar.cpp.i
+
+brightTrackBar.s: brightTrackBar.cpp.s
+.PHONY : brightTrackBar.s
+
+# target to generate assembly for a file
+brightTrackBar.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/brightTrackBar.dir/build.make CMakeFiles/brightTrackBar.dir/brightTrackBar.cpp.s
+.PHONY : brightTrackBar.cpp.s
 
 brightness.o: brightness.cpp.o
 .PHONY : brightness.o
@@ -165,6 +215,30 @@ brightness.s: brightness.cpp.s
 brightness.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/brightness.dir/build.make CMakeFiles/brightness.dir/brightness.cpp.s
 .PHONY : brightness.cpp.s
+
+contrast.o: contrast.cpp.o
+.PHONY : contrast.o
+
+# target to build an object file
+contrast.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/contrast.dir/build.make CMakeFiles/contrast.dir/contrast.cpp.o
+.PHONY : contrast.cpp.o
+
+contrast.i: contrast.cpp.i
+.PHONY : contrast.i
+
+# target to preprocess a source file
+contrast.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/contrast.dir/build.make CMakeFiles/contrast.dir/contrast.cpp.i
+.PHONY : contrast.cpp.i
+
+contrast.s: contrast.cpp.s
+.PHONY : contrast.s
+
+# target to generate assembly for a file
+contrast.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/contrast.dir/build.make CMakeFiles/contrast.dir/contrast.cpp.s
+.PHONY : contrast.cpp.s
 
 saturated.o: saturated.cpp.o
 .PHONY : saturated.o
@@ -198,11 +272,19 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... brightTrackBar"
 	@echo "... brightness"
+	@echo "... contrast"
 	@echo "... saturated"
+	@echo "... brightTrackBar.o"
+	@echo "... brightTrackBar.i"
+	@echo "... brightTrackBar.s"
 	@echo "... brightness.o"
 	@echo "... brightness.i"
 	@echo "... brightness.s"
+	@echo "... contrast.o"
+	@echo "... contrast.i"
+	@echo "... contrast.s"
 	@echo "... saturated.o"
 	@echo "... saturated.i"
 	@echo "... saturated.s"
