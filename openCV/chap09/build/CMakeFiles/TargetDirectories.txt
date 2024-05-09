@@ -1,4 +1,8 @@
 /home/ssorra/mifasol_a/openCV/chap09/build/CMakeFiles/canny.dir
+/home/ssorra/mifasol_a/openCV/chap09/build/CMakeFiles/hough.dir
+/home/ssorra/mifasol_a/openCV/chap09/build/CMakeFiles/houghCircle.dir
+/home/ssorra/mifasol_a/openCV/chap09/build/CMakeFiles/houghCircleTrackbar.dir
+/home/ssorra/mifasol_a/openCV/chap09/build/CMakeFiles/houghLinesP.dir
 /home/ssorra/mifasol_a/openCV/chap09/build/CMakeFiles/sobel.dir
 /home/ssorra/mifasol_a/openCV/chap09/build/CMakeFiles/edit_cache.dir
 /home/ssorra/mifasol_a/openCV/chap09/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+/home/ssorra/mifasol_a/openCV/chap10/build/CMakeFiles/color.dir
+/home/ssorra/mifasol_a/openCV/chap10/build/CMakeFiles/colorlnrange.dir
+/home/ssorra/mifasol_a/openCV/chap10/build/CMakeFiles/splitMerge.dir
+/home/ssorra/mifasol_a/openCV/chap10/build/CMakeFiles/edit_cache.dir
+/home/ssorra/mifasol_a/openCV/chap10/build/CMakeFiles/rebuild_cache.dir
