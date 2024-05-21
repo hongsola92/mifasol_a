@@ -653,4 +653,45 @@ ___
 - 해리스 코너 검출
 - FAST 코너 검출 (FAST() 함수를 이용하여 검출)
     - 비최대 억제 수행으로 로컬맥시말을 검출
-    
+# Python
+## 024-05-21
+- 파이썬 특징
+    - 동적 타이핑 언어
+    - 플랫폼 독립적인 언어
+    - 객체 지향 언어
+    - 인터프리터 언어
+
+- `python3 -V` 버전 검색해보기.
+- 가상환경
+    - 가상환경 만들기
+        1. conda를 사용하여 만드는 방법.
+        2. virtualenv + pip를 사용하여 만드는 방법.
+- miniconda 실습
+    - 리눅스 안에서 miniconda설치
+        - `wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh`
+        - `sh Miniconda3-latest-Linux-x86_64.sh`
+    - 쉘 재실행
+        - conda 명령어 진행
+            - 생성: conda create mynev
+            - 가상환경 명령어: conda create -n my_project python=3.10
+    - 가상환경 실행
+        - `conda activate my_project` 명령어 입력
+            - `which python` => 리눅스의 경우 which로 위치 찾기. 윈도우일 경우 
+            'where'사용
+- 자료형과 기본 연산
+    - 기본자료형
+        - 정수형, 실수형, 문자형,불린형
+    - 간단한 연산
+        - 사칙연산,제곱승,나눗셈의 몫과 나머지,증가 연산과 감소연산
+- 화면 입출력
+    - input()함수
+- 리스트의 이해
+    - 배열 int[]
+    - vector <type>
+        - 어느타입이든 집어 넣을 수 있음. [A type, B type, ...]
+- 리스트 추가 및 삭제
+    - append()함수
+    - extend()함수  ==> 기존 리스트에 그대로 새로운 리스트 추가.
+    - insert()함수  ==> 0번째 인덱스 값에 새로운 값을 추가.
+    - remove()함수
+    - 인덱스의 재할당과 삭제
