@@ -824,4 +824,4 @@ ___
         - 파이썬: 동적 타이핑(dynamic typing), 메타클래스 지원.
         - C++: 정적 타이핑(static typing), 템플릿(templates)기능 제공.
 - 파이썬으로 원을 만들어 움직이는 게임 만들어보기.
-    - ``
+    - `https://github.com/hongsola92/mifasol_a/blob/7070de8126f14e1230aa8c6739fb8c10d9922113/pygame/simpleGame.py`
