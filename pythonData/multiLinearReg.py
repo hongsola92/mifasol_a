@@ -14,7 +14,7 @@ def main():
     subset = ['AdjSalePrice', 'SqFtTotLiving', 'SqFtLot', 'Bathrooms', 'Bedrooms', 'BldgGrade']
     outcome = 'AdjSalePrice'  # 종속 변수 (타겟 변수)
     predictors = ['SqFtTotLiving', 'SqFtLot', 'Bathrooms', 'Bedrooms', 'BldgGrade']  # 독립 변수 (예측 변수)
-
+    
     house_lm = LinearRegression()  # 선형 회귀 모델 생성
     house_lm.fit(house[predictors], house[outcome])  # 모델 훈련
 
