@@ -1095,4 +1095,4 @@ ___
 - 로지스틱 회귀
     - 로지스틱 회귀와 GLM - *https://zrr.kr/W2TV*
     - 모델 평가하기 - *https://zrr.kr/NxSZ*
-- ROC곡선 - *rocCuve
+- ROC곡선 - *https://zrr.kr/8GWX*
