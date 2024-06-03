@@ -1093,6 +1093,6 @@ ___
         - 일반화가법모형
 ## 024-06-03
 - 로지스틱 회귀
-    - 로지스틱 회귀와 GLM - *LogisticRegression*
-    - 모델 평가하기 - **
-- 분류모델 평가하기
+    - 로지스틱 회귀와 GLM - *https://zrr.kr/W2TV*
+    - 모델 평가하기 - *https://zrr.kr/NxSZ*
+- ROC곡선 - *rocCuve
