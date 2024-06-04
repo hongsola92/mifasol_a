@@ -1101,7 +1101,7 @@ ___
 - 통계적 머신러닝
     - 랜덤 포레스트: 랜덤 포레스트 모델을 훈련시키고, 변수 중요도를 계산하고, 시각화 하기. - *https://zrr.kr/IKaI*
 - 비지도 학습
-    - 주성분 분석
-        - pcaTest - *https://zrr.kr/4HdA*
-    - 주성분 해석
-        - pcaTest2 - **
+    - 주성분 분석 - pcaTest - *https://zrr.kr/4HdA*
+        - 주성분 해석 - pcaTest2 - *https://zrr.kr/UjH0*
+        - 대응분석 - pcaTest3 - **
+    - k-평균 클러스터링 - kmeanClustering - **
