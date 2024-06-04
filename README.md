@@ -1103,5 +1103,5 @@ ___
 - 비지도 학습
     - 주성분 분석 - pcaTest - *https://zrr.kr/4HdA*
         - 주성분 해석 - pcaTest2 - *https://zrr.kr/UjH0*
-        - 대응분석 - pcaTest3 - **
-    - k-평균 클러스터링 - kmeanClustering - **
+        - 대응분석 - pcaTest3 - *https://zrr.kr/leRO*
+    - k-평균 클러스터링 - kmeanClustering - *https://zrr.kr/Nf1G*
