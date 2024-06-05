@@ -1106,10 +1106,13 @@ ___
         - 주성분 해석 - pcaTest2 - *https://zrr.kr/UjH0*
         - 대응분석 - pcaTest3 - *https://zrr.kr/leRO*
     - k-평균 클러스터링 - kmeanClustering - *https://zrr.kr/Nf1G*
----------------------------링
+---------------------------
 ## 024-06-05
 - 비지도 학습
     - k-평균 클러스터링
-        - 클러스터 해석 - kMeanClustering - **
-        - 클러스터 개수 선정 - kMeanClusteringDeterminN - **
-    - 계층적 클러스터링
+        - 클러스터 해석 - kMeanClustering2 - *https://zrr.kr/j11L*
+        - 클러스터 개수 선정 - kMeanClusteringDeterminN - *https://zrr.kr/mVZXJ*
+    - 계층적 클러스터링 
+        - hierarchicalClustering - **
+        - dominantVariable - **
+        - gowersDistance - **
