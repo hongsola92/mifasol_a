@@ -1091,12 +1091,13 @@ ___
         - 다항식 - *https://zrr.kr/S1iZ*
         - 스플라인
         - 일반화가법모형
+--------
 ## 024-06-03
 - 로지스틱 회귀
     - 로지스틱 회귀와 GLM - *https://zrr.kr/W2TV*
     - 모델 평가하기 - *https://zrr.kr/NxSZ*
 - ROC곡선 - *https://zrr.kr/8GWX*
-
+--------------------------
 ## 024-06-04
 - 통계적 머신러닝
     - 랜덤 포레스트: 랜덤 포레스트 모델을 훈련시키고, 변수 중요도를 계산하고, 시각화 하기. - *https://zrr.kr/IKaI*
@@ -1105,3 +1106,10 @@ ___
         - 주성분 해석 - pcaTest2 - *https://zrr.kr/UjH0*
         - 대응분석 - pcaTest3 - *https://zrr.kr/leRO*
     - k-평균 클러스터링 - kmeanClustering - *https://zrr.kr/Nf1G*
+---------------------------링
+## 024-06-05
+- 비지도 학습
+    - k-평균 클러스터링
+        - 클러스터 해석 - kMeanClustering - **
+        - 클러스터 개수 선정 - kMeanClusteringDeterminN - **
+    - 계층적 클러스터링
