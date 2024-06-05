@@ -1113,6 +1113,6 @@ ___
         - 클러스터 해석 - kMeanClustering2 - *https://zrr.kr/j11L*
         - 클러스터 개수 선정 - kMeanClusteringDeterminN - *https://zrr.kr/mVZXJ*
     - 계층적 클러스터링 
-        - hierarchicalClustering - **
-        - dominantVariable - **
-        - gowersDistance - **
+        - hierarchicalClustering - *https://zrr.kr/NRmg* 
+        - dominantVariable - *https://zrr.kr/Z7h0*
+        - gowersDistance - *https://zrr.kr/y9Jq*
