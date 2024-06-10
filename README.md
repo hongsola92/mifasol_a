@@ -1118,8 +1118,8 @@ ___
         - gowersDistance - *https://zrr.kr/y9Jq*
 
 ## 024-06-10
-- 주어진 데이터를 카테고리로 나누기 - bindingTest - **
-- pandas를 사용하여 DataFrame에서 결측치를 처리 - dropProcessing-**
-- 'preTestScore' 열의 결측치를 해당 열의 평균값으로 대체한 후, 'postTestScore' 열의 결측치를 처리 - fillProcessing-**
-- 범주형 변수를 더미 변수로 변환하는 작업 - get_dummiesTest - **
-- 피쳐스케일링 - featureScaling - **
+- 주어진 데이터를 카테고리로 나누기 - bindingTest - *https://zrr.kr/rgqx*
+- pandas를 사용하여 DataFrame에서 결측치를 처리 - dropProcessing-*https://zrr.kr/V309*
+- 'preTestScore' 열의 결측치를 해당 열의 평균값으로 대체한 후, 'postTestScore' 열의 결측치를 처리 - fillProcessing -*https://zrr.kr/pLBh*
+- 범주형 변수를 더미 변수로 변환하는 작업 - get_dummiesTest - *https://zrr.kr/UEIj*
+- 피쳐스케일링 - featureScaling - *https://zrr.kr/MYPp*
