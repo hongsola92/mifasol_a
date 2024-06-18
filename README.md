@@ -1169,9 +1169,10 @@ ___
     1) stack
         - last-in-first-out. : 마지막에 호출된 함수가 제일 먼저 사라짐. 
     2) queue
-    3) linked List
-    4) tree
-    5) graph
+        - first-in-first-out. : 먼저 들어간 데이터가 먼저 나오는 자료 구조. 
+    4) linked List
+    5) tree
+    6) graph
 
     - generic(포괄형) prog.
     
