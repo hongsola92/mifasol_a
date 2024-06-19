@@ -1171,6 +1171,11 @@ ___
     2) queue
         - first-in-first-out. : 먼저 들어간 데이터가 먼저 나오는 자료 구조. 
     4) linked List
+        - 순차 접근하여 삽입/삭제
+        - ptr -> next -> data = 3;
+        - ptr -> next -> next = malloc()
+        - ptr -> next -> next -> data = 4;
+        - ptr -> next -> next -> next = NULL;
     5) tree
     6) graph
 

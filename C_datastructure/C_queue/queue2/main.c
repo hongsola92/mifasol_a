@@ -16,7 +16,7 @@ int main(void)
     push(&q1, 300);
 
     printf("2nd pop() : %d\n", pop(&q1));
-    printf("3rd pop() : %d\n", pop(&q1));
+    printf("3rd pop() : %d\n", pop(&q1)); 
 
     push(&q2, 900);
     push(&q2, 800);
