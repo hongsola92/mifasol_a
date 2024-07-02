@@ -1180,4 +1180,10 @@ ___
     6) graph
 
     - generic(포괄형) prog.
+----------------------------
+## fanal project
+### [SmartFarm_link](https://github.com/gambitbro/KIB_Final_Project.git)
+    - 프로젝트명: 가정용 스마트팜
+    - 기간: 24.06.20. - 24.07.09. (19일)
+    - 인원: 홍솔아, 민병근, 이진우
     
